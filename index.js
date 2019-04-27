@@ -14,6 +14,6 @@ function happyHolidayTo(holiday, name){
 }
 
 //function that returns multiple string and parameter
-function holidayCountdown(days, holiday) {
+function holidayCountdown(holiday, days) {
   return ("It's " + days + " days until " + holiday + "!")
 }
