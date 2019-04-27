@@ -3,7 +3,7 @@ function happyHolidays(){
   return ("Happy holidays!")
 }
 
-//function that returns parameter
+//function that returns a string and parameter via interpolation
 function happyHolidaysTo(name){
   return ("Happy holidays, " + name + "!")
 }
