@@ -10,5 +10,5 @@ function happyHolidaysTo(name){
 
 //function that returns multiple string and parameter
 function happyHolidayTo(holiday, name){
-  return ("Happy " + holiday + "," + name + "!")
+  return ("Happy " + holiday + ", " + name + "!")
 }
